@@ -1,5 +1,5 @@
 # 💫 About Me:
-Myself Shyam Sharma <br>I'm currently working on Blockchain based time capsule<br>I'm currently learning Zero-Knowledge proof(ZKP)
+Myself Shyam Sharma <br>I'm currently working on Blockchain based time capsule<br> Zero-Knowledge proof(ZKP) enthusiast
 
 
 ## 🌐 Socials:
